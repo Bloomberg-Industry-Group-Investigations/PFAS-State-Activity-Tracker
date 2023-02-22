@@ -31,7 +31,7 @@ Appropriations bills that include spending allocations for PFAS-related initiati
 
 ## Data Description
 
-[PFAS State Activity Tracker.csv](data/PFAS State Activity Tracker.csv) - A
+[PFAS State Activity Tracker.csv](data/PFAS%20State%20Activity%20Tracker.csv) - A
 comma-separated values file of the PFAS State Activity Tracker.
 
 ## Data Dictionary
