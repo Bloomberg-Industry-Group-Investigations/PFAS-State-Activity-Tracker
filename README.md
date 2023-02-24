@@ -47,6 +47,6 @@ comma-separated values file of the PFAS State Activity Tracker.
 | `Link Text` | Text to display for hyperlink (*Note: Used for generating clickable links in PDFs and the interactive table*) | string |
 | `URL` | URL to more information on the action | string |
 | `Hyperlink` | Hyperlink that combines the `Link Text` and `URL` into a clickable object (*Note: This will not display in the CSV and will only appear as plain text*) | string |
-| `Links` | Text written in Markdown that combines the `Link Text` and `URL` into  hyperlink syntax (*Note: This is for generating clickable hyperlinks in the searchable version of the tracker*) | string |
+| `Links` | Text written in HTML that combines the `Link Text` and `URL` into syntax that opens the link in a new page (*Note: This is for generating clickable hyperlinks in the searchable version of the tracker*) | string |
 | `Notes` | Additional information on the action (if applicable), such as bill number or when legislation was signed into law | string |
 |`Entry Last Updated` | When the entry was last updated | date |
