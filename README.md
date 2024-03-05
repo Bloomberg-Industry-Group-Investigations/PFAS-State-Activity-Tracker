@@ -1,5 +1,7 @@
 # Bloomberg Industry Group Investigations PFAS State Activity Tracker
 
+***WARNING: This tracker is no longer being updated and should not be considered up-to-date. The tracker may not reflect current laws or regulations. It is being maintained in its current state as a reference.***
+
 ## Terms of Use
 
 By downloading the Dataset, you agree that you will attribute the Dataset and any use of the Dataset to Bloomberg Law. You may use the Dataset for personal or internal business purposes, and may make limited use of the Dataset in connection with the provision of other services to clients; provided that you may not monetize the Dataset or otherwise make commercial use of the Dataset where the Dataset constitutes all, or substantially all, of the commercial offering. The Dataset is provided "as-is" and without any express or implied warranties.
@@ -8,17 +10,17 @@ By downloading the Dataset, you agree that you will attribute the Dataset and an
 
 This repository contains the database that makes up the PFAS State Activity Tracker. The tracker contains legislative and regulatory actions on PFAS that are happening at the state level. Proposed, pending, and enacted measures are included.
 
-A searchable version of the database along with a short snippet of the latest developments can be found on [the Bloomberg Law website](https://news.bloomberglaw.com/pfas-project/pfas-state-activity-tracker). The tracker and website are updated regularly as more news and developments become available.
+**The tracker is no longer being updated and should not be considered up-to-date.**
+
+A searchable version of the database along with a short snippet of the latest developments can be found on [the Bloomberg Law website](https://news.bloomberglaw.com/pfas-project/pfas-state-activity-tracker).
 
 PFAS, which stands for per- and polyfluoroalkyl substances, are a group of man-made chemicals that are distinguished by their durability and water resiliency. They're often referred to as "forever chemicals" because of their inability to naturally break down.
 
 ## How the Database was Constructed
 
-This database was initially constructed by surveying existing PFAS state laws and regulatory actions. Where none were immediately apparent, state agencies were contacted for additional information. The tracker is now maintained primarily by monitoring alerts set up on the Bloomberg Law and Bloomberg Government platforms.
+This database was initially constructed by surveying existing PFAS state laws and regulatory actions. Where none were immediately apparent, state agencies were contacted for additional information. The tracker was previously primarily maintained by monitoring alerts set up on the Bloomberg Law and Bloomberg Government platforms.
 
-The increasing amount of states' activity on PFAS and the manual nature of updating the tracker means that inevitably omissions or errors may result. Additionally, information may not be immediately updated when new developments occur.
-
-If you'd like to report any errors or missing information, please reach out to the database's maintainer, Andrew Wallender, at awallender@bloombergindustry.com.
+The increasing amount of states' activity on PFAS and the manual nature of updating the tracker means that inevitably omissions or errors may have resulted when the tracker was being maintained. Additionally, information may not have been immediately updated when new developments occurred.
 
 ## Note on Database Structure
 
